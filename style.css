@@ -1,0 +1,9 @@
+/*container*/
+.aerofolio-welcome-page {
+    background-color: hotpink;
+    color: black;
+    padding: 35px;
+    border-radius: 16px;
+    width: 32px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+} /*container over*/
