@@ -13,3 +13,7 @@ as it progresses, the front page shoud look cooler. A high quality image and ins
 The command above will require lots of code breaking and testing to make sure users can input different variations of the search prompts. Include autocorrest so whatever input that is given will result in the closest search. For the early stages just display a text in red that says "prompt not recognised"
 4. Later, we'll update the imagery and make it more user friendly
 Maybe make music play in the background
+
+after line break, the user should be able to input something and then if they input Portfolio it takes them to my portfolio page, if they input Aero OS, it takes them to where the VDE should be.
+
+For now since i need to have some sort of finished project to ship to the competition i'll put page is under construction for both. I'll b adding the function first and then making the prompt lead to their respective pages.
