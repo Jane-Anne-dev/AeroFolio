@@ -1,9 +1,28 @@
 /*container*/
 .aerofolio-welcome-page {
     background-color: hotpink;
-    color: black;
-    padding: 35px;
-    border-radius: 16px;
-    width: 32px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    color: crimson;
+    width: 100vw;               
+    height: 100vh;                
+    
+} /*container over*/
+
+/*container 2*/
+.aero-os-page {
+    background-color: red;
+    color: navy;
+    width: 100vw;                 
+    height: 100vh;                
+    
+    display: none;  
+} /*container over*/
+
+/*container*/
+.portfolio-page{
+    background-color: whitesmoke;
+    color:black;
+    width: 100vw;                 
+    height: 100vh;                
+    
+    display: none;  
 } /*container over*/

@@ -21,3 +21,6 @@ wrapping every single choice block inside its own set of curly brackets is more 
 
 
 After updating the css we'll see what this does, i think that alert wouldnt make a page for the first two if conditions being fulfilled and i want a page for each one before submitting so wel'll see how it goes
+
+The button still doesn't work. But now i know my jc, css, and html are working together
+also the backgroun was just a box?
