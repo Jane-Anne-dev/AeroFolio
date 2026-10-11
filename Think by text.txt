@@ -2,4 +2,14 @@
 Or no, its a drop down!!!! yes, it'll be a drop down that'll display two options, one the portfolio and two aero os. Yesss, i'll make the updates soon
 if they click on aero os, the vde shows up. If they click on portfolio, the professioonal portfolio shows up
 as it progresses, the front page shoud look cooler. A high quality image and instead of old timey drop down box we'll have the red pill and blue pill hand holding two boxes of text. 1st text in the red box will be portfolio cause its professional and red pillers always act so serious then the blue is where i unleash pure whimsy.
+ <!--Notes for me. The html in the case of the VDE is the skeleton or structure. Technically like a frame for the phone, or the screen panel-->
+ //  js is the brain and or logic. It controls what happens when you clik an app, or tap the screen or drain the battery
+ /*css is for style. The wall paper, the phone case, the edges of the screen being curved or shapr */
  
+ Using all three files and linking them into the html container keeps things clean and organised
+
+ 2. I've moved the style commands into the style.css file to make things cleaner
+3. For now, the welcome page has the first paragraph element (html tag) as " Aero OS or Portfolio" and they will input text in the text area, whichever one they type and send opens something
+The command above will require lots of code breaking and testing to make sure users can input different variations of the search prompts. Include autocorrest so whatever input that is given will result in the closest search. For the early stages just display a text in red that says "prompt not recognised"
+4. Later, we'll update the imagery and make it more user friendly
+Maybe make music play in the background
