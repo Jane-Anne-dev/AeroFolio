@@ -24,3 +24,13 @@ After updating the css we'll see what this does, i think that alert wouldnt make
 
 The button still doesn't work. But now i know my jc, css, and html are working together
 also the backgroun was just a box?
+
+SO FAR IT WORKSSSSS
+
+I just needed to edit the background details
+
+then i created a new container for each page. I made the aero folio page the start and then aeroos be a block on top it and display page in construction. Then if they input portfolio, it'll show the portfolio
+
+Next fix:
+
+Install a back button. make background something other than one color, try a rainbox for welcome page or image
